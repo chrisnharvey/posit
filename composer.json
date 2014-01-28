@@ -16,5 +16,6 @@
             "Posit\\": "src/"
         }
     },
+    "bin": ["bin/posit"],
     "minimum-stability": "dev"
 }
