@@ -4,7 +4,7 @@
     "keywords": ["deployment", "ci"],
     "require": {
         "php": ">=5.4.0",
-        "league/shunt": "~2.0",
+        "league/shunt": "dev-master",
         "symfony/console": "~2.3",
         "aws/aws-sdk-php": "2.5.x"
     },
